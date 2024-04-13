@@ -1,0 +1,19 @@
+{
+  "name": "sypto-flyer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "cd src && node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "fyers-api-v3": "^1.1.1",
+    "sha256": "^0.2.0",
+    "zod": "^3.22.4"
+  }
+}
